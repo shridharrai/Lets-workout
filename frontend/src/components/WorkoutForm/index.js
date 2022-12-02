@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { type } from "../../context/constants";
-import { useWorkoutContext } from "../../hooks/WorkoutContext";
+import { useWorkoutContext } from "../../hooks/WorkoutHook";
 import "./index.css";
 
 const WorkoutForm = () => {

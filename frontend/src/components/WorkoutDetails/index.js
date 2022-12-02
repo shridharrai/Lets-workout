@@ -1,5 +1,5 @@
 import { type } from "../../context/constants";
-import { useWorkoutContext } from "../../hooks/WorkoutContext";
+import { useWorkoutContext } from "../../hooks/WorkoutHook";
 import formatDistanceToNow from "date-fns/formatDistanceToNow";
 import "./index.css";
 
